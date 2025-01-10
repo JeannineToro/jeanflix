@@ -1,0 +1,13 @@
+{
+    "categorias":[
+        {
+            "categoria": "Acción"
+        },
+        {
+            "categoria": "Comedia"
+        },
+        {
+            "categoria": "Drama"
+        }
+    ]
+}

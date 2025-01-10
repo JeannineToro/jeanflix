@@ -35,7 +35,7 @@ const Banner = () => {
                             }}>
 
                             <img
-                                src={seleccionBanner.caratula} alt='Caratula de la película' width={530}
+                                src={seleccionBanner.caratula} alt='Caratula de la película' width={230}
                             />
 
                             <Box>
